@@ -1,0 +1,29 @@
+body{
+    background-color: #B22222;
+}
+.aliveSquare{
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    border: 1px solid #000;
+    margin-right:2px;
+    background-color: #000;
+}
+.deadSquare{
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    border: 1px solid #000;
+    margin-right:2px;
+    background-color: #fff;
+}
+.box{
+    display: block;
+    margin: 0 auto;
+    width: 490px;
+}
+.buttons{
+    display: block;
+    margin: 0 auto;
+    width: 190px;
+}
